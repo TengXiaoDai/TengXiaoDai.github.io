@@ -1,3 +1,0 @@
-User-Agent: *
-Allow: /
-Sitemap:https://wowtbc.gold/tbcgoldmap.xml
